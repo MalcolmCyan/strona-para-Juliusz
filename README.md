@@ -1,5 +1,5 @@
 # strona-para-Juliusz
-Public
+Wersja 2
 ## Autor
 Imię: Juliusz
 Klasa: 4P
